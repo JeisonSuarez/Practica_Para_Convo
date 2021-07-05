@@ -1,0 +1,12 @@
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\bin\Debug\PracticaExamen.exe.config
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\bin\Debug\PracticaExamen.exe
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\bin\Debug\PracticaExamen.pdb
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.csproj.AssemblyReference.cache
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.AgregarPrestamo.resources
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.Form1.resources
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.Properties.Resources.resources
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.Resumen_Prestamos.resources
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.csproj.GenerateResource.cache
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.csproj.CoreCompileInputs.cache
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.exe
+C:\Users\Jeison Suarez\source\repos\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.pdb
